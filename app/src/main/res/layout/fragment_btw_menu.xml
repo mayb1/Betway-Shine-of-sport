@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".BtwMenuFragment">
+
+    <TextView
+        android:id="@+id/tvBwwAppName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/opensansbold"
+        android:gravity="center"
+        android:text="@string/app_name"
+        android:textColor="#0D0D0E"
+        android:textSize="37sp"
+        app:layout_constraintBottom_toTopOf="@+id/bBtwAmericanFootball"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/bBtwExit"
+        android:layout_width="287dp"
+        android:layout_height="72dp"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/button_menu"
+        android:fontFamily="@font/opensanssemibold"
+        android:text="Exit Game"
+        android:textAllCaps="false"
+        android:textColor="#F0EAF1"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/bBtwPrivacy"
+        android:layout_width="287dp"
+        android:layout_height="72dp"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/button_menu"
+        android:fontFamily="@font/opensanssemibold"
+        android:text="Privacy Policy"
+        android:textAllCaps="false"
+        android:textColor="#F0EAF1"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/bBtwExit"
+        app:layout_constraintEnd_toEndOf="@+id/bBtwExit"
+        app:layout_constraintStart_toStartOf="@+id/bBtwExit" />
+
+    <Button
+        android:id="@+id/bBtwFootball"
+        android:layout_width="287dp"
+        android:layout_height="72dp"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/button_1"
+        android:fontFamily="@font/opensanssemibold"
+        android:text="Football"
+        android:textAllCaps="false"
+        android:textColor="#F0EAF1"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/bBtwPrivacy"
+        app:layout_constraintEnd_toEndOf="@+id/bBtwPrivacy"
+        app:layout_constraintStart_toStartOf="@+id/bBtwPrivacy" />
+
+    <Button
+        android:id="@+id/bBtwTennis"
+        android:layout_width="287dp"
+        android:layout_height="72dp"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/button_2"
+        android:fontFamily="@font/opensanssemibold"
+        android:text="Tennis"
+        android:textAllCaps="false"
+        android:textColor="#F0EAF1"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/bBtwFootball"
+        app:layout_constraintEnd_toEndOf="@+id/bBtwFootball"
+        app:layout_constraintStart_toStartOf="@+id/bBtwFootball" />
+
+    <Button
+        android:id="@+id/bBtwVolleyball"
+        android:layout_width="287dp"
+        android:layout_height="72dp"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/button_3"
+        android:fontFamily="@font/opensanssemibold"
+        android:text="Volleyball"
+        android:textAllCaps="false"
+        android:textColor="#F0EAF1"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/bBtwTennis"
+        app:layout_constraintEnd_toEndOf="@+id/bBtwTennis"
+        app:layout_constraintStart_toStartOf="@+id/bBtwTennis" />
+
+    <Button
+        android:id="@+id/bBtwAmericanFootball"
+        android:layout_width="287dp"
+        android:layout_height="72dp"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/button_4"
+        android:fontFamily="@font/opensanssemibold"
+        android:text="American Football"
+        android:textAllCaps="false"
+        android:textColor="#F0EAF1"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/bBtwVolleyball"
+        app:layout_constraintEnd_toEndOf="@+id/bBtwVolleyball"
+        app:layout_constraintStart_toStartOf="@+id/bBtwVolleyball" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

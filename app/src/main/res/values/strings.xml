@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Betway : Shine of sport</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text"> Privacy Policy
+November 18, 2022
+Betway shine built the Betway: Shine of sport app as a Free app. This SERVICE is provided by Betway shine at no cost and is intended for use as is.
+
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Betway: Shine of sport unless otherwise defined in this Privacy Policy.
+
+Information Collection and Use
+
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The app will not collect any identifiers, except Google Advertiser ID(it uses for evaluating the effectiveness of advertising and send personalized push notifications(OneSignal privacy policy link below).
+
+Link to the privacy policy of third-party service providers used by the app
+
+Google Play Services
+Google Analytics for Firebase
+Firebase Crashlytics
+One Signal
+Log Data
+
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+Cookies
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\'s internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+Service Providers
+
+I may employ third-party companies and individuals due to the following reasons:
+
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+Security
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Children’s Privacy
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+
+Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2022-11-18
+
+Contact Us
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at dmitrominkovcki25@gmail.com. </string>
+    <string name="football"> A brief introduction to how betting works
+Odds are set by a bookmaker and represent the ratio between the stake and winnings on a given outcome, should you wish to place a bet on it. They are usually shown as fractions (eg, 2/1), but can sometimes be shown as decimals (2.00) and you can decide which you prefer to use. For example, if the outcome of an event has odds of 2/1 (or 2.00), it means you will win £2 for every £1 you bet.
+How football betting works
+There are thousands of football matches taking place every week, with even more markets available to bet on through bookmakers offering a huge variety of different odds on every little detail of matches. They will give their prices on the outcome of matches and events within the match, such as the number of goals scored, corners won, red and yellow cards shown, and individual goalscorers.
+
+There are lots of different bookmakers who will continually have special offers and competitive odds to try to ensure that you have the best value bet. Once the outcome of the event is confirmed and your bet is a winner, you will be paid out your original stake plus the winnings from the odds.
+
+Throughout there are a number of different types of bets, including accumulators where you can combine different selections to make one large odds price to place your bet. This is available with the majority of football markets.
+</string>
+
+    <string name="tennis">
+        Walkovers
+A walkover win occurs when a player advances as a result of their opponent pulling out of a tournament before a match.
+
+Since the match never started, all bets would void. This is pretty much a universal rule.
+
+What If a Player Retires?
+This is when a player advances after their opponent retires during a match. Injuries are the primary reason this would happen. We saw this at the 2019 French Open as Benoit Paire advanced after Pablo Carreno Busta retired down 2-1 in sets.
+
+You also see a lot of these when players aren’t fully fit for the heat of Wimbledon and the U.S. Open, but want to show up at the tournament for a paycheck.
+        Moneyline rules get a little trickier with retirements since different books will have different rules. The four likeliest possibilities include:
+
+First ball — All moneyline bets are action after the first ball is played. Therefore, if you bet on a player who retired during the first game, you lose your moneyline bet.
+One set — Some books like FanDuel require at least one set to be completed before moneyline wagers become action.
+Two sets — The same rules as above but with two full sets.
+Full match — No moneyline are considered action until the full match is completed.
+Also, keep in mind that books will usually grade the winner declared by the umpire — a.k.a. the person who didn’t retire. Therefore, you could lose a moneyline bet on a player that retires despite leading on the scoreboard.
+        Over/Unders
+Wagers on the full match over/under will generally get voided unless it reached the over already. Otherwise, it’s void.
+
+For example, if you bet a match to go over 21 total games and someone retires at 7-6, 5-4 — some books most U.S. books will grade totals on that match as action since the outcome was already decided. This would never happen in baseball but, again, check your specific book for their rules because variations do exist.
+
+Also, if you bet the over/under on just the first set, that bet should stand as long as the players finish the first set.
+</string>
+
+    <string name="afootball">
+    Rugby Betting
+As in most sports, match betting is one of the most popular forms of rugby betting. In match betting, you bet on one of the teams to win the game. Because rugby is such a high-scoring game, it is very rare you will witness a draw. Therefore, some match betting markets don’t offer the draw, while others will price a draw at around 40/1.
+
+Handicap betting, or spread betting, is another important part of rugby betting. In handicap betting, one of the teams is a given a hypothetical advantage or disadvantage, with points being either given to them or taken away from them. This is a good market to bet on when one team is the heavy favourites to win. Let’s look at an example: in a World Cup game, New Zealand are playing Tonga. New Zealand are seen as a 13.5-point favourite in the match. You put your money on Tonga with a +13.5 handicap: this means that they start the game with an extra 13.5 points. If Tonga win the game or lose it with less than 13 points, you win your bet. If New Zealand win the game with 14 points or more, you lose your bet.
+
+Over/under bets give you a number and a category, and you bet on whether this number is exceeded or not. So, let’s say that the cut-off point for the total number of points in a match is 41.5. If you bet over, you win if there are 42 points or over. If there’s 41 points or less, you lose.
+
+Tournament and season bets
+Outside of individual matches, there are also outright bets on tournaments and leagues. Outrights give you the chance to bet on, for example, the winner of a tournament. Here is your chance to bet on the winner of the Rugby World Cup or Six Nations Championship. Outrights may be the right bet for you, especially if you don’t have a clear favourite in the competition. When betting on a tournament winner, you have a team to support and follow throughout their games.
+
+Equally, when betting on who will win a league, it is important to note that the odds can go up and down during the season. So making that bet at the start of the campaign may be smart, depending on how the team then fares a few weeks into the season.
+
+Individual player betting
+More and more fans are betting on individual players during rugby games. And the big market here is first tryscorer. Here, you bet on the player you think will score the opening try of a match. And this can be tricky. Usually the favourites are the backs, who can turn on the attacking flair in an instant. But the forwards can sometimes bulldoze their way to the try line — and their odds are usually much higher.
+
+If you think the match is going to be won by whoever kicks the most points — which is often the case, especially at international level — then betting on the highest points scorer is a strong bet. Here, you’re likely to bet on one of the two fly-halves, assuming they are the players assigned to kick conversions and penalties.
+
+You can also bet in the disciplinary markets here. Because rugby is such a physical game, there are sometimes punch-ups between the two teams, or a player can make a mistake when tackling. Players can be sin-binned, where they receive a yellow card and leave the field for 10 minutes. You can bet on the first yellow card of a game, while red cards are also part of the sport, although they are more rare.
+</string>
+    <string name="volleyball">
+        How to bet on volleyball
+There are very few differences between indoor volleyball and beach volleyball when it comes to betting. Therefore, this guide will give an overview of the central markets in both versions of the sport.
+
+Here are some of the most popular markets punters play on when betting on volleyball.
+
+Match bet
+This is simply a bet on which team you think will win the match. To place a match bet first you should head to the Unibet sportsbook and find the volleyball competition you want to bet on. Then find the game to follow. You will see the ‘home’ team on the left, and the ‘away’ team on the right. There are no draws in volleyball so you can only bet on home (1) or away (2). Simply click on the odds and enter the stake you wish to bet on, then click ‘Place bet’. If the team you backs wins the match, you win your bet!
+
+Handicap betting
+You can also bet on a handicap within the match bet, in order to make the game more interesting. The handicap is used in sports betting to even up the odds on a one-sided game. For example, if Germany W are heavy favourites to beat Switzerland W, the match bet odds might be so low that they are not worth betting on. So, we create a handicap where a team will need to win with an imaginary deficit. You could bet on Germany W to win with a -2.5 handicap. That means they need to win the game 3-0 on sets for your bet to win! Likewise, you could bet on Switzerland W to win with a +1.5 handicap. So long as they don’t lose 3-0 then you win your bet.
+
+Total points
+You can also bet on total points in both indoor volleyball and beach volleyball. This is where you predict how many points will be scored over the duration of the game. It is worth remembering that in indoor volleyball matches run to five sets, while they only run to three sets in beach volleyball. So, if you’re betting on an indoor match the minimum number of points scored will be 75. This will only happen if one team wins 25-0 25-0 25-0, which is very unlikely.
+
+Indoor volleyball matches will usually witness around 136 points. So keep this in mind when you’re betting. You can bet over a total number of points scored, or under a total number of points scored.
+
+For example, you could bet on Russia v Belarus witnessing +134.5 points. If 135 points or more are scored, you win the bet.
+Correct score
+This is a more refined match bet. Here, you bet on the correct score from the volleyball match in terms of sets. In indoor volleyball, the scores will be anywhere from 3-0 to 3-2, home or away. In beach volleyball, the scores will be from 2-0 to 2-1, home or away. Sometimes there isn’t a strict home or away team, but the teams will be allocated to either the 1 or the 2 section of the bet.
+
+Set betting
+You can also bet on which team will win individual sets in volleyball. This is a great bet if you’re not sure who will win the game, but have a firm idea of who might take a Set 1 lead. Meanwhile, you can bet on the total points scored in a particular set. Usually you will bet over or under 41.5 points scored in an indoor volleyball match.
+
+Tournament bets
+Unibet provides tournament bets of the biggest competitions in the volleyball world. These are long-term markets, where you bet on the eventual winner of the tournament in question. At the Olympics, you can also bet on if a team will win a medal (rather than simply winning gold) as well as predicting when teams might crash out.
+
+Many volleyball tournaments have an initial group stage before then leading onto a knockout stage. It means you can also often bet on which team you think will win a group, instead of winning the entire tournament. This is a great way to play the volleyball betting odds if you think a team will succeed in the groups but not win the overall title.
+</string>
+
+</resources>

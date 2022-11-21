@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/navigation_btwLoading">
+    <fragment
+        android:id="@+id/navigation_btwMenu"
+        android:name="sportsz.betway.com.BtwMenuFragment"
+        android:label="fragment_btw_menu"
+        tools:layout="@layout/fragment_btw_menu" >
+        <action
+            android:id="@+id/action_btwMenuFragment_to_btwPrivacyFragment"
+            app:destination="@id/navigation_btwPrivacy" />
+        <action
+            android:id="@+id/action_btwMenuFragment_to_btwFootballFragment"
+            app:destination="@id/navigation_btwFootball" />
+        <action
+            android:id="@+id/action_btwMenuFragment_to_btwAmericanFootballFragment"
+            app:destination="@id/navigation_btwAmericanFootball" />
+        <action
+            android:id="@+id/action_btwMenuFragment_to_btwVolleyballFragment"
+            app:destination="@id/navigation_btwVolleyball" />
+        <action
+            android:id="@+id/action_btwMenuFragment_to_btwTennisFragment"
+            app:destination="@id/navigation_btwTennis" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_btwPrivacy"
+        android:name="sportsz.betway.com.BtwPrivacyFragment"
+        android:label="fragment_btw_privacy"
+        tools:layout="@layout/fragment_btw_privacy" />
+    <fragment
+        android:id="@+id/navigation_btwLoading"
+        android:name="sportsz.betway.com.BtwLoadingFragment"
+        android:label="fragment_btw_loading"
+        tools:layout="@layout/fragment_btw_loading" >
+        <action
+            android:id="@+id/action_btwLoadingFragment_to_btwMenuFragment"
+            app:destination="@id/navigation_btwMenu" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_btwFootball"
+        android:name="sportsz.betway.com.BtwFootballFragment"
+        android:label="fragment_btw_football"
+        tools:layout="@layout/fragment_btw_football" />
+    <fragment
+        android:id="@+id/navigation_btwAmericanFootball"
+        android:name="sportsz.betway.com.BtwAmericanFootballFragment"
+        android:label="fragment_btw_american_football"
+        tools:layout="@layout/fragment_btw_american_football" />
+    <fragment
+        android:id="@+id/navigation_btwVolleyball"
+        android:name="sportsz.betway.com.BtwVolleyballFragment"
+        android:label="fragment_btw_volleyball"
+        tools:layout="@layout/fragment_btw_volleyball" />
+    <fragment
+        android:id="@+id/navigation_btwTennis"
+        android:name="sportsz.betway.com.BtwTennisFragment"
+        android:label="fragment_btw_tennis"
+        tools:layout="@layout/fragment_btw_tennis" />
+</navigation>

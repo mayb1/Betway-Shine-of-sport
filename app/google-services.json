@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740819358975",
+    "project_id": "betway-shine-of-sport",
+    "storage_bucket": "betway-shine-of-sport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740819358975:android:2ab57065a191a12a24a8ca",
+        "android_client_info": {
+          "package_name": "sportsz.betway.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740819358975-cq6vu2r0q79bqb4ksgso2qdapke9rhku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUby5EDm7SWVf33baqQ5flKp_Jrf5-Ho8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740819358975-cq6vu2r0q79bqb4ksgso2qdapke9rhku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
